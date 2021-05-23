@@ -18,7 +18,7 @@ In supervised learning, models are trained using labelled dataset, where the mod
 - Execute the algorithm on the training dataset. Sometimes we need validation sets as the control parameters, which are the subset of training datasets.
 - Evaluate the accuracy of the model by providing the test set. If the model predicts the correct output, which means our model is accurate.
 
-## Tpes of supervised ML
+## Types of supervised ML
 
 1. Regression
 
