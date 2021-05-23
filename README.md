@@ -5,10 +5,11 @@ Supervised learning is a process of providing input data as well as correct outp
 
 In the real-world, supervised learning can be used for Risk Assessment, Image classification, Fraud Detection, spam filtering, etc.
 
-##m How Supervised works 
+## How Supervised works 
 In supervised learning, models are trained using labelled dataset, where the model learns about each type of data. Once the training process is completed, the model is tested on the basis of test data (a subset of the training set), and then it predicts the output.
 
 ## Steps Involved in Supervised Learning:
+
 - First Determine the type of training dataset
 - Collect/Gather the labelled training data.
 - Split the training dataset into training dataset, test dataset, and validation dataset.
@@ -17,7 +18,7 @@ In supervised learning, models are trained using labelled dataset, where the mod
 - Execute the algorithm on the training dataset. Sometimes we need validation sets as the control parameters, which are the subset of training datasets.
 - Evaluate the accuracy of the model by providing the test set. If the model predicts the correct output, which means our model is accurate.
 
-## types of supervised ML
+## Tpes of supervised ML
 
 1. Regression
 
